@@ -1,3 +1,3 @@
-# vitejs-vite-1gf9wb
+# simple-counter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-1gf9wb)
+simple counter made with react in stackblitz
